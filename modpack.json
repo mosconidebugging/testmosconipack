@@ -1,12 +1,12 @@
 {
   "description" : "testmosconipack",
   "url" : "http://158.58.170.58/antani",
-  "version" : "0.0.2",
+  "version" : "0.0.3",
   "mcversion" : "1.7.10",
   "forgever" : "10.13.4.1614",
   "mods" : {
     "waila" : "1.5.10",
-    "tinkers-construct" : "1.8.3b",
+    "tinkers-construct" : "1.8.8",
     "mantle" : "0.3.2"
   }
 }
